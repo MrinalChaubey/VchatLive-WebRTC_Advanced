@@ -18,7 +18,7 @@ Documentation link :https://api-ref.agora.io/en/signaling-sdk/web/1.x/index.html
 Documentation link :https://api-ref.agora.io/en/signaling-sdk/web/1.x/index.html
 
 <h1> Installation</h1>
-1 - clone repo: https://github.com/AayushiChoubey/VchatLive-WebRTC-Advanced<br>
+1 - clone repo: https://github.com/MrinalChaubey/VchatLive-WebRTC_Advanced<br>
 2 - Create an account on agora.io and create an app to generate an APP ID<br>
 3 - Update APP ID, Temp Token and Channel Name in room_rtc.js
 
