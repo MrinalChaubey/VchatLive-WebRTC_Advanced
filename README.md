@@ -3,7 +3,7 @@ VchatLive is Video Conferencing platform which uses WebRTC to establish the conn
 This platform directs the user to channel room according to the Id.
 
 <h1>Deployment Link</h1>
-https://aayushichoubey.github.io/VchatLive-WebRTC-Advanced/
+https://mrinalchaubey.github.io/VchatLive-WebRTC_Advanced/
 
 
 <h1> Introduction</h1>
